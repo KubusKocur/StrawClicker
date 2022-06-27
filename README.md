@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 21.02.2020<br>🛒 Author: KubusElCelaGeñco#2585</p>
+<p align="left">✨ Created In: 27.06.2022<br>🛒 Author: KubusElCelaGeñco#2585</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Where Im Coded?...</h2>
+<h2 align="left">Where Im Created?...</h2>
 
 ###
 
