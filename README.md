@@ -1,4 +1,5 @@
 <h1 align="left">Welcome In StrawClicker Project 👋</h1>
+<h1 align="left">This Project Is Coded For Fun:)</h1>
 
 ###
 
